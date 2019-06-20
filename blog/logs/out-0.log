@@ -1,0 +1,24 @@
+2019-05-26 21:31:02: cookie 1558876889228_0.9363784329914853
+2019-05-26 21:31:02: sessionData { username: 'zhangsan', realname: '张三' }
+2019-05-26 21:31:02: req.session  { username: 'zhangsan', realname: '张三' }
+2019-05-26 21:31:02: req.sessionId  1558876889228_0.9363784329914853
+2019-05-26 21:31:02: [Object: null prototype] { username: 'zhangsan', password: '123' } 14
+2019-05-26 21:31:02: '524ab85686df0e52ada43b11b53cce35' 11
+2019-05-26 21:31:02: sql is 
+2019-05-26 21:31:02:         select username, realname from users where username='zhangsan' and password='524ab85686df0e52ada43b11b53cce35'
+2019-05-26 21:31:02:     
+2019-05-26 21:31:02: [ RowDataPacket { username: 'zhangsan', realname: '张三' } ] 18
+2019-05-26 21:31:02: RowDataPacket { username: 'zhangsan', realname: '张三' } 16
+2019-05-26 21:31:02: Reply: OK
+2019-05-26 21:31:05: cookie 1558876889228_0.9363784329914853
+2019-05-26 21:31:05: sessionData { username: 'zhangsan', realname: '张三' }
+2019-05-26 21:31:05: req.session  { username: 'zhangsan', realname: '张三' }
+2019-05-26 21:31:05: req.sessionId  1558876889228_0.9363784329914853
+2019-05-26 21:31:05: [Object: null prototype] { username: 'zhangsan', password: '123' } 14
+2019-05-26 21:31:05: '524ab85686df0e52ada43b11b53cce35' 11
+2019-05-26 21:31:05: sql is 
+2019-05-26 21:31:05:         select username, realname from users where username='zhangsan' and password='524ab85686df0e52ada43b11b53cce35'
+2019-05-26 21:31:05:     
+2019-05-26 21:31:05: [ RowDataPacket { username: 'zhangsan', realname: '张三' } ] 18
+2019-05-26 21:31:05: RowDataPacket { username: 'zhangsan', realname: '张三' } 16
+2019-05-26 21:31:05: Reply: OK

@@ -1,0 +1,518 @@
+2019-05-26 21:27:57: { Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+2019-05-26 21:27:57:     at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)
+2019-05-26 21:27:57:   errno: 'ECONNREFUSED',
+2019-05-26 21:27:57:   code: 'ECONNREFUSED',
+2019-05-26 21:27:57:   syscall: 'connect',
+2019-05-26 21:27:57:   address: '127.0.0.1',
+2019-05-26 21:27:57:   port: 6379 }
+2019-05-26 21:27:59: { Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+2019-05-26 21:27:59:     at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)
+2019-05-26 21:27:59:   errno: 'ECONNREFUSED',
+2019-05-26 21:27:59:   code: 'ECONNREFUSED',
+2019-05-26 21:27:59:   syscall: 'connect',
+2019-05-26 21:27:59:   address: '127.0.0.1',
+2019-05-26 21:27:59:   port: 6379 }
+2019-05-26 21:28:00: { Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+2019-05-26 21:28:00:     at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)
+2019-05-26 21:28:00:   errno: 'ECONNREFUSED',
+2019-05-26 21:28:00:   code: 'ECONNREFUSED',
+2019-05-26 21:28:00:   syscall: 'connect',
+2019-05-26 21:28:00:   address: '127.0.0.1',
+2019-05-26 21:28:00:   port: 6379 }
+2019-05-26 21:28:02: { Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+2019-05-26 21:28:02:     at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)
+2019-05-26 21:28:02:   errno: 'ECONNREFUSED',
+2019-05-26 21:28:02:   code: 'ECONNREFUSED',
+2019-05-26 21:28:02:   syscall: 'connect',
+2019-05-26 21:28:02:   address: '127.0.0.1',
+2019-05-26 21:28:02:   port: 6379 }
+2019-05-26 21:28:04: { Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+2019-05-26 21:28:04:     at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)
+2019-05-26 21:28:04:   errno: 'ECONNREFUSED',
+2019-05-26 21:28:04:   code: 'ECONNREFUSED',
+2019-05-26 21:28:04:   syscall: 'connect',
+2019-05-26 21:28:04:   address: '127.0.0.1',
+2019-05-26 21:28:04:   port: 6379 }
+2019-05-26 21:28:06: { Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+2019-05-26 21:28:06:     at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)
+2019-05-26 21:28:06:   errno: 'ECONNREFUSED',
+2019-05-26 21:28:06:   code: 'ECONNREFUSED',
+2019-05-26 21:28:06:   syscall: 'connect',
+2019-05-26 21:28:06:   address: '127.0.0.1',
+2019-05-26 21:28:06:   port: 6379 }
+2019-05-26 21:28:10: { Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+2019-05-26 21:28:10:     at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)
+2019-05-26 21:28:10:   errno: 'ECONNREFUSED',
+2019-05-26 21:28:10:   code: 'ECONNREFUSED',
+2019-05-26 21:28:10:   syscall: 'connect',
+2019-05-26 21:28:10:   address: '127.0.0.1',
+2019-05-26 21:28:10:   port: 6379 }
+2019-05-26 21:28:16: { Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+2019-05-26 21:28:16:     at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)
+2019-05-26 21:28:16:   errno: 'ECONNREFUSED',
+2019-05-26 21:28:16:   code: 'ECONNREFUSED',
+2019-05-26 21:28:16:   syscall: 'connect',
+2019-05-26 21:28:16:   address: '127.0.0.1',
+2019-05-26 21:28:16:   port: 6379 }
+2019-05-26 21:28:25: { Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+2019-05-26 21:28:25:     at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)
+2019-05-26 21:28:25:   errno: 'ECONNREFUSED',
+2019-05-26 21:28:25:   code: 'ECONNREFUSED',
+2019-05-26 21:28:25:   syscall: 'connect',
+2019-05-26 21:28:25:   address: '127.0.0.1',
+2019-05-26 21:28:25:   port: 6379 }
+2019-05-26 21:28:40: { Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+2019-05-26 21:28:40:     at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)
+2019-05-26 21:28:40:   errno: 'ECONNREFUSED',
+2019-05-26 21:28:40:   code: 'ECONNREFUSED',
+2019-05-26 21:28:40:   syscall: 'connect',
+2019-05-26 21:28:40:   address: '127.0.0.1',
+2019-05-26 21:28:40:   port: 6379 }
+2019-05-26 21:31:54: { Error: ER_NOT_SUPPORTED_AUTH_MODE: Client does not support authentication protocol requested by server; consider upgrading MySQL client
+2019-05-26 21:31:54:     at Handshake.Sequence._packetToError (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\sequences\Sequence.js:47:14)
+2019-05-26 21:31:54:     at Handshake.ErrorPacket (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\sequences\Handshake.js:123:18)
+2019-05-26 21:31:54:     at Protocol._parsePacket (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\Protocol.js:291:23)
+2019-05-26 21:31:54:     at Parser._parsePacket (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\Parser.js:433:10)
+2019-05-26 21:31:54:     at Parser.write (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\Parser.js:43:10)
+2019-05-26 21:31:54:     at Protocol.write (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\Protocol.js:38:16)
+2019-05-26 21:31:54:     at Socket.<anonymous> (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\Connection.js:91:28)
+2019-05-26 21:31:54:     at Socket.<anonymous> (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\Connection.js:525:10)
+2019-05-26 21:31:54:     at Socket.emit (events.js:189:13)
+2019-05-26 21:31:54:     at addChunk (_stream_readable.js:284:12)
+2019-05-26 21:31:54:     --------------------
+2019-05-26 21:31:54:     at Protocol._enqueue (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\Protocol.js:144:48)
+2019-05-26 21:31:54:     at Protocol.handshake (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\Protocol.js:51:23)
+2019-05-26 21:31:54:     at Connection.connect (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\Connection.js:119:18)
+2019-05-26 21:31:54:     at Object.<anonymous> (C:\Users\Howlet\Desktop\blog\src\db\mysql.js:9:5)
+2019-05-26 21:31:54:     at Module._compile (internal/modules/cjs/loader.js:689:30)
+2019-05-26 21:31:54:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:700:10)
+2019-05-26 21:31:54:     at Module.load (internal/modules/cjs/loader.js:599:32)
+2019-05-26 21:31:54:     at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+2019-05-26 21:31:54:     at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+2019-05-26 21:31:54:     at Module.require (internal/modules/cjs/loader.js:637:17)
+2019-05-26 21:31:54:   code: 'ER_NOT_SUPPORTED_AUTH_MODE',
+2019-05-26 21:31:54:   errno: 1251,
+2019-05-26 21:31:54:   sqlMessage:
+2019-05-26 21:31:54:    'Client does not support authentication protocol requested by server; consider upgrading MySQL client',
+2019-05-26 21:31:54:   sqlState: '08004',
+2019-05-26 21:31:54:   fatal: true }
+2019-05-26 21:31:55: { Error: ER_NOT_SUPPORTED_AUTH_MODE: Client does not support authentication protocol requested by server; consider upgrading MySQL client
+2019-05-26 21:31:55:     at Handshake.Sequence._packetToError (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\sequences\Sequence.js:47:14)
+2019-05-26 21:31:55:     at Handshake.ErrorPacket (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\sequences\Handshake.js:123:18)
+2019-05-26 21:31:55:     at Protocol._parsePacket (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\Protocol.js:291:23)
+2019-05-26 21:31:55:     at Parser._parsePacket (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\Parser.js:433:10)
+2019-05-26 21:31:55:     at Parser.write (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\Parser.js:43:10)
+2019-05-26 21:31:55:     at Protocol.write (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\Protocol.js:38:16)
+2019-05-26 21:31:55:     at Socket.<anonymous> (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\Connection.js:91:28)
+2019-05-26 21:31:55:     at Socket.<anonymous> (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\Connection.js:525:10)
+2019-05-26 21:31:55:     at Socket.emit (events.js:189:13)
+2019-05-26 21:31:55:     at addChunk (_stream_readable.js:284:12)
+2019-05-26 21:31:55:     --------------------
+2019-05-26 21:31:55:     at Protocol._enqueue (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\Protocol.js:144:48)
+2019-05-26 21:31:55:     at Protocol.handshake (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\Protocol.js:51:23)
+2019-05-26 21:31:55:     at Connection.connect (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\Connection.js:119:18)
+2019-05-26 21:31:55:     at Object.<anonymous> (C:\Users\Howlet\Desktop\blog\src\db\mysql.js:9:5)
+2019-05-26 21:31:55:     at Module._compile (internal/modules/cjs/loader.js:689:30)
+2019-05-26 21:31:55:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:700:10)
+2019-05-26 21:31:55:     at Module.load (internal/modules/cjs/loader.js:599:32)
+2019-05-26 21:31:55:     at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+2019-05-26 21:31:55:     at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+2019-05-26 21:31:55:     at Module.require (internal/modules/cjs/loader.js:637:17)
+2019-05-26 21:31:55:   code: 'ER_NOT_SUPPORTED_AUTH_MODE',
+2019-05-26 21:31:55:   errno: 1251,
+2019-05-26 21:31:55:   sqlMessage:
+2019-05-26 21:31:55:    'Client does not support authentication protocol requested by server; consider upgrading MySQL client',
+2019-05-26 21:31:55:   sqlState: '08004',
+2019-05-26 21:31:55:   fatal: true }
+2019-05-26 21:31:55: { Error: ER_NOT_SUPPORTED_AUTH_MODE: Client does not support authentication protocol requested by server; consider upgrading MySQL client
+2019-05-26 21:31:55:     at Handshake.Sequence._packetToError (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\sequences\Sequence.js:47:14)
+2019-05-26 21:31:55:     at Handshake.ErrorPacket (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\sequences\Handshake.js:123:18)
+2019-05-26 21:31:55:     at Protocol._parsePacket (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\Protocol.js:291:23)
+2019-05-26 21:31:55:     at Parser._parsePacket (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\Parser.js:433:10)
+2019-05-26 21:31:55:     at Parser.write (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\Parser.js:43:10)
+2019-05-26 21:31:55:     at Protocol.write (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\Protocol.js:38:16)
+2019-05-26 21:31:55:     at Socket.<anonymous> (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\Connection.js:91:28)
+2019-05-26 21:31:55:     at Socket.<anonymous> (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\Connection.js:525:10)
+2019-05-26 21:31:55:     at Socket.emit (events.js:189:13)
+2019-05-26 21:31:55:     at addChunk (_stream_readable.js:284:12)
+2019-05-26 21:31:55:     --------------------
+2019-05-26 21:31:55:     at Protocol._enqueue (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\Protocol.js:144:48)
+2019-05-26 21:31:55:     at Protocol.handshake (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\Protocol.js:51:23)
+2019-05-26 21:31:55:     at Connection.connect (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\Connection.js:119:18)
+2019-05-26 21:31:55:     at Object.<anonymous> (C:\Users\Howlet\Desktop\blog\src\db\mysql.js:9:5)
+2019-05-26 21:31:55:     at Module._compile (internal/modules/cjs/loader.js:689:30)
+2019-05-26 21:31:55:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:700:10)
+2019-05-26 21:31:55:     at Module.load (internal/modules/cjs/loader.js:599:32)
+2019-05-26 21:31:55:     at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+2019-05-26 21:31:55:     at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+2019-05-26 21:31:55:     at Module.require (internal/modules/cjs/loader.js:637:17)
+2019-05-26 21:31:55:   code: 'ER_NOT_SUPPORTED_AUTH_MODE',
+2019-05-26 21:31:55:   errno: 1251,
+2019-05-26 21:31:55:   sqlMessage:
+2019-05-26 21:31:55:    'Client does not support authentication protocol requested by server; consider upgrading MySQL client',
+2019-05-26 21:31:55:   sqlState: '08004',
+2019-05-26 21:31:55:   fatal: true }
+2019-05-26 21:31:55: { Error: ER_NOT_SUPPORTED_AUTH_MODE: Client does not support authentication protocol requested by server; consider upgrading MySQL client
+2019-05-26 21:31:55:     at Handshake.Sequence._packetToError (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\sequences\Sequence.js:47:14)
+2019-05-26 21:31:55:     at Handshake.ErrorPacket (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\sequences\Handshake.js:123:18)
+2019-05-26 21:31:55:     at Protocol._parsePacket (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\Protocol.js:291:23)
+2019-05-26 21:31:55:     at Parser._parsePacket (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\Parser.js:433:10)
+2019-05-26 21:31:55:     at Parser.write (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\Parser.js:43:10)
+2019-05-26 21:31:55:     at Protocol.write (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\Protocol.js:38:16)
+2019-05-26 21:31:55:     at Socket.<anonymous> (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\Connection.js:91:28)
+2019-05-26 21:31:55:     at Socket.<anonymous> (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\Connection.js:525:10)
+2019-05-26 21:31:55:     at Socket.emit (events.js:189:13)
+2019-05-26 21:31:55:     at addChunk (_stream_readable.js:284:12)
+2019-05-26 21:31:55:     --------------------
+2019-05-26 21:31:55:     at Protocol._enqueue (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\Protocol.js:144:48)
+2019-05-26 21:31:55:     at Protocol.handshake (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\Protocol.js:51:23)
+2019-05-26 21:31:55:     at Connection.connect (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\Connection.js:119:18)
+2019-05-26 21:31:55:     at Object.<anonymous> (C:\Users\Howlet\Desktop\blog\src\db\mysql.js:9:5)
+2019-05-26 21:31:55:     at Module._compile (internal/modules/cjs/loader.js:689:30)
+2019-05-26 21:31:55:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:700:10)
+2019-05-26 21:31:55:     at Module.load (internal/modules/cjs/loader.js:599:32)
+2019-05-26 21:31:55:     at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+2019-05-26 21:31:55:     at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+2019-05-26 21:31:55:     at Module.require (internal/modules/cjs/loader.js:637:17)
+2019-05-26 21:31:55:   code: 'ER_NOT_SUPPORTED_AUTH_MODE',
+2019-05-26 21:31:55:   errno: 1251,
+2019-05-26 21:31:55:   sqlMessage:
+2019-05-26 21:31:55:    'Client does not support authentication protocol requested by server; consider upgrading MySQL client',
+2019-05-26 21:31:55:   sqlState: '08004',
+2019-05-26 21:31:55:   fatal: true }
+2019-05-26 21:31:56: { Error: ER_NOT_SUPPORTED_AUTH_MODE: Client does not support authentication protocol requested by server; consider upgrading MySQL client
+2019-05-26 21:31:56:     at Handshake.Sequence._packetToError (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\sequences\Sequence.js:47:14)
+2019-05-26 21:31:56:     at Handshake.ErrorPacket (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\sequences\Handshake.js:123:18)
+2019-05-26 21:31:56:     at Protocol._parsePacket (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\Protocol.js:291:23)
+2019-05-26 21:31:56:     at Parser._parsePacket (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\Parser.js:433:10)
+2019-05-26 21:31:56:     at Parser.write (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\Parser.js:43:10)
+2019-05-26 21:31:56:     at Protocol.write (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\Protocol.js:38:16)
+2019-05-26 21:31:56:     at Socket.<anonymous> (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\Connection.js:91:28)
+2019-05-26 21:31:56:     at Socket.<anonymous> (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\Connection.js:525:10)
+2019-05-26 21:31:56:     at Socket.emit (events.js:189:13)
+2019-05-26 21:31:56:     at addChunk (_stream_readable.js:284:12)
+2019-05-26 21:31:56:     --------------------
+2019-05-26 21:31:56:     at Protocol._enqueue (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\Protocol.js:144:48)
+2019-05-26 21:31:56:     at Protocol.handshake (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\Protocol.js:51:23)
+2019-05-26 21:31:56:     at Connection.connect (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\Connection.js:119:18)
+2019-05-26 21:31:56:     at Object.<anonymous> (C:\Users\Howlet\Desktop\blog\src\db\mysql.js:9:5)
+2019-05-26 21:31:56:     at Module._compile (internal/modules/cjs/loader.js:689:30)
+2019-05-26 21:31:56:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:700:10)
+2019-05-26 21:31:56:     at Module.load (internal/modules/cjs/loader.js:599:32)
+2019-05-26 21:31:56:     at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+2019-05-26 21:31:56:     at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+2019-05-26 21:31:56:     at Module.require (internal/modules/cjs/loader.js:637:17)
+2019-05-26 21:31:56:   code: 'ER_NOT_SUPPORTED_AUTH_MODE',
+2019-05-26 21:31:56:   errno: 1251,
+2019-05-26 21:31:56:   sqlMessage:
+2019-05-26 21:31:56:    'Client does not support authentication protocol requested by server; consider upgrading MySQL client',
+2019-05-26 21:31:56:   sqlState: '08004',
+2019-05-26 21:31:56:   fatal: true }
+2019-05-26 21:31:56: { Error: ER_NOT_SUPPORTED_AUTH_MODE: Client does not support authentication protocol requested by server; consider upgrading MySQL client
+2019-05-26 21:31:56:     at Handshake.Sequence._packetToError (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\sequences\Sequence.js:47:14)
+2019-05-26 21:31:56:     at Handshake.ErrorPacket (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\sequences\Handshake.js:123:18)
+2019-05-26 21:31:56:     at Protocol._parsePacket (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\Protocol.js:291:23)
+2019-05-26 21:31:56:     at Parser._parsePacket (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\Parser.js:433:10)
+2019-05-26 21:31:56:     at Parser.write (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\Parser.js:43:10)
+2019-05-26 21:31:56:     at Protocol.write (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\Protocol.js:38:16)
+2019-05-26 21:31:56:     at Socket.<anonymous> (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\Connection.js:91:28)
+2019-05-26 21:31:56:     at Socket.<anonymous> (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\Connection.js:525:10)
+2019-05-26 21:31:56:     at Socket.emit (events.js:189:13)
+2019-05-26 21:31:56:     at addChunk (_stream_readable.js:284:12)
+2019-05-26 21:31:56:     --------------------
+2019-05-26 21:31:56:     at Protocol._enqueue (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\Protocol.js:144:48)
+2019-05-26 21:31:56:     at Protocol.handshake (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\Protocol.js:51:23)
+2019-05-26 21:31:56:     at Connection.connect (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\Connection.js:119:18)
+2019-05-26 21:31:56:     at Object.<anonymous> (C:\Users\Howlet\Desktop\blog\src\db\mysql.js:9:5)
+2019-05-26 21:31:56:     at Module._compile (internal/modules/cjs/loader.js:689:30)
+2019-05-26 21:31:56:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:700:10)
+2019-05-26 21:31:56:     at Module.load (internal/modules/cjs/loader.js:599:32)
+2019-05-26 21:31:56:     at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+2019-05-26 21:31:56:     at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+2019-05-26 21:31:56:     at Module.require (internal/modules/cjs/loader.js:637:17)
+2019-05-26 21:31:56:   code: 'ER_NOT_SUPPORTED_AUTH_MODE',
+2019-05-26 21:31:56:   errno: 1251,
+2019-05-26 21:31:56:   sqlMessage:
+2019-05-26 21:31:56:    'Client does not support authentication protocol requested by server; consider upgrading MySQL client',
+2019-05-26 21:31:56:   sqlState: '08004',
+2019-05-26 21:31:56:   fatal: true }
+2019-05-26 21:31:57: { Error: ER_NOT_SUPPORTED_AUTH_MODE: Client does not support authentication protocol requested by server; consider upgrading MySQL client
+2019-05-26 21:31:57:     at Handshake.Sequence._packetToError (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\sequences\Sequence.js:47:14)
+2019-05-26 21:31:57:     at Handshake.ErrorPacket (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\sequences\Handshake.js:123:18)
+2019-05-26 21:31:57:     at Protocol._parsePacket (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\Protocol.js:291:23)
+2019-05-26 21:31:57:     at Parser._parsePacket (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\Parser.js:433:10)
+2019-05-26 21:31:57:     at Parser.write (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\Parser.js:43:10)
+2019-05-26 21:31:57:     at Protocol.write (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\Protocol.js:38:16)
+2019-05-26 21:31:57:     at Socket.<anonymous> (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\Connection.js:91:28)
+2019-05-26 21:31:57:     at Socket.<anonymous> (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\Connection.js:525:10)
+2019-05-26 21:31:57:     at Socket.emit (events.js:189:13)
+2019-05-26 21:31:57:     at addChunk (_stream_readable.js:284:12)
+2019-05-26 21:31:57:     --------------------
+2019-05-26 21:31:57:     at Protocol._enqueue (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\Protocol.js:144:48)
+2019-05-26 21:31:57:     at Protocol.handshake (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\Protocol.js:51:23)
+2019-05-26 21:31:57:     at Connection.connect (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\Connection.js:119:18)
+2019-05-26 21:31:57:     at Object.<anonymous> (C:\Users\Howlet\Desktop\blog\src\db\mysql.js:9:5)
+2019-05-26 21:31:57:     at Module._compile (internal/modules/cjs/loader.js:689:30)
+2019-05-26 21:31:57:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:700:10)
+2019-05-26 21:31:57:     at Module.load (internal/modules/cjs/loader.js:599:32)
+2019-05-26 21:31:57:     at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+2019-05-26 21:31:57:     at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+2019-05-26 21:31:57:     at Module.require (internal/modules/cjs/loader.js:637:17)
+2019-05-26 21:31:57:   code: 'ER_NOT_SUPPORTED_AUTH_MODE',
+2019-05-26 21:31:57:   errno: 1251,
+2019-05-26 21:31:57:   sqlMessage:
+2019-05-26 21:31:57:    'Client does not support authentication protocol requested by server; consider upgrading MySQL client',
+2019-05-26 21:31:57:   sqlState: '08004',
+2019-05-26 21:31:57:   fatal: true }
+2019-05-26 21:31:57: { Error: ER_NOT_SUPPORTED_AUTH_MODE: Client does not support authentication protocol requested by server; consider upgrading MySQL client
+2019-05-26 21:31:57:     at Handshake.Sequence._packetToError (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\sequences\Sequence.js:47:14)
+2019-05-26 21:31:57:     at Handshake.ErrorPacket (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\sequences\Handshake.js:123:18)
+2019-05-26 21:31:57:     at Protocol._parsePacket (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\Protocol.js:291:23)
+2019-05-26 21:31:57:     at Parser._parsePacket (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\Parser.js:433:10)
+2019-05-26 21:31:57:     at Parser.write (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\Parser.js:43:10)
+2019-05-26 21:31:57:     at Protocol.write (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\Protocol.js:38:16)
+2019-05-26 21:31:57:     at Socket.<anonymous> (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\Connection.js:91:28)
+2019-05-26 21:31:57:     at Socket.<anonymous> (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\Connection.js:525:10)
+2019-05-26 21:31:57:     at Socket.emit (events.js:189:13)
+2019-05-26 21:31:57:     at addChunk (_stream_readable.js:284:12)
+2019-05-26 21:31:57:     --------------------
+2019-05-26 21:31:57:     at Protocol._enqueue (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\Protocol.js:144:48)
+2019-05-26 21:31:57:     at Protocol.handshake (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\Protocol.js:51:23)
+2019-05-26 21:31:57:     at Connection.connect (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\Connection.js:119:18)
+2019-05-26 21:31:57:     at Object.<anonymous> (C:\Users\Howlet\Desktop\blog\src\db\mysql.js:9:5)
+2019-05-26 21:31:57:     at Module._compile (internal/modules/cjs/loader.js:689:30)
+2019-05-26 21:31:57:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:700:10)
+2019-05-26 21:31:57:     at Module.load (internal/modules/cjs/loader.js:599:32)
+2019-05-26 21:31:57:     at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+2019-05-26 21:31:57:     at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+2019-05-26 21:31:57:     at Module.require (internal/modules/cjs/loader.js:637:17)
+2019-05-26 21:31:57:   code: 'ER_NOT_SUPPORTED_AUTH_MODE',
+2019-05-26 21:31:57:   errno: 1251,
+2019-05-26 21:31:57:   sqlMessage:
+2019-05-26 21:31:57:    'Client does not support authentication protocol requested by server; consider upgrading MySQL client',
+2019-05-26 21:31:57:   sqlState: '08004',
+2019-05-26 21:31:57:   fatal: true }
+2019-05-26 21:31:57: { Error: ER_NOT_SUPPORTED_AUTH_MODE: Client does not support authentication protocol requested by server; consider upgrading MySQL client
+2019-05-26 21:31:57:     at Handshake.Sequence._packetToError (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\sequences\Sequence.js:47:14)
+2019-05-26 21:31:57:     at Handshake.ErrorPacket (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\sequences\Handshake.js:123:18)
+2019-05-26 21:31:57:     at Protocol._parsePacket (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\Protocol.js:291:23)
+2019-05-26 21:31:57:     at Parser._parsePacket (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\Parser.js:433:10)
+2019-05-26 21:31:57:     at Parser.write (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\Parser.js:43:10)
+2019-05-26 21:31:57:     at Protocol.write (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\Protocol.js:38:16)
+2019-05-26 21:31:57:     at Socket.<anonymous> (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\Connection.js:91:28)
+2019-05-26 21:31:57:     at Socket.<anonymous> (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\Connection.js:525:10)
+2019-05-26 21:31:57:     at Socket.emit (events.js:189:13)
+2019-05-26 21:31:57:     at addChunk (_stream_readable.js:284:12)
+2019-05-26 21:31:57:     --------------------
+2019-05-26 21:31:57:     at Protocol._enqueue (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\Protocol.js:144:48)
+2019-05-26 21:31:57:     at Protocol.handshake (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\Protocol.js:51:23)
+2019-05-26 21:31:57:     at Connection.connect (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\Connection.js:119:18)
+2019-05-26 21:31:57:     at Object.<anonymous> (C:\Users\Howlet\Desktop\blog\src\db\mysql.js:9:5)
+2019-05-26 21:31:57:     at Module._compile (internal/modules/cjs/loader.js:689:30)
+2019-05-26 21:31:57:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:700:10)
+2019-05-26 21:31:57:     at Module.load (internal/modules/cjs/loader.js:599:32)
+2019-05-26 21:31:57:     at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+2019-05-26 21:31:57:     at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+2019-05-26 21:31:57:     at Module.require (internal/modules/cjs/loader.js:637:17)
+2019-05-26 21:31:57:   code: 'ER_NOT_SUPPORTED_AUTH_MODE',
+2019-05-26 21:31:57:   errno: 1251,
+2019-05-26 21:31:57:   sqlMessage:
+2019-05-26 21:31:57:    'Client does not support authentication protocol requested by server; consider upgrading MySQL client',
+2019-05-26 21:31:57:   sqlState: '08004',
+2019-05-26 21:31:57:   fatal: true }
+2019-05-26 21:31:58: { Error: ER_NOT_SUPPORTED_AUTH_MODE: Client does not support authentication protocol requested by server; consider upgrading MySQL client
+2019-05-26 21:31:58:     at Handshake.Sequence._packetToError (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\sequences\Sequence.js:47:14)
+2019-05-26 21:31:58:     at Handshake.ErrorPacket (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\sequences\Handshake.js:123:18)
+2019-05-26 21:31:58:     at Protocol._parsePacket (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\Protocol.js:291:23)
+2019-05-26 21:31:58:     at Parser._parsePacket (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\Parser.js:433:10)
+2019-05-26 21:31:58:     at Parser.write (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\Parser.js:43:10)
+2019-05-26 21:31:58:     at Protocol.write (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\Protocol.js:38:16)
+2019-05-26 21:31:58:     at Socket.<anonymous> (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\Connection.js:91:28)
+2019-05-26 21:31:58:     at Socket.<anonymous> (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\Connection.js:525:10)
+2019-05-26 21:31:58:     at Socket.emit (events.js:189:13)
+2019-05-26 21:31:58:     at addChunk (_stream_readable.js:284:12)
+2019-05-26 21:31:58:     --------------------
+2019-05-26 21:31:58:     at Protocol._enqueue (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\Protocol.js:144:48)
+2019-05-26 21:31:58:     at Protocol.handshake (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\Protocol.js:51:23)
+2019-05-26 21:31:58:     at Connection.connect (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\Connection.js:119:18)
+2019-05-26 21:31:58:     at Object.<anonymous> (C:\Users\Howlet\Desktop\blog\src\db\mysql.js:9:5)
+2019-05-26 21:31:58:     at Module._compile (internal/modules/cjs/loader.js:689:30)
+2019-05-26 21:31:58:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:700:10)
+2019-05-26 21:31:58:     at Module.load (internal/modules/cjs/loader.js:599:32)
+2019-05-26 21:31:58:     at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+2019-05-26 21:31:58:     at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+2019-05-26 21:31:58:     at Module.require (internal/modules/cjs/loader.js:637:17)
+2019-05-26 21:31:58:   code: 'ER_NOT_SUPPORTED_AUTH_MODE',
+2019-05-26 21:31:58:   errno: 1251,
+2019-05-26 21:31:58:   sqlMessage:
+2019-05-26 21:31:58:    'Client does not support authentication protocol requested by server; consider upgrading MySQL client',
+2019-05-26 21:31:58:   sqlState: '08004',
+2019-05-26 21:31:58:   fatal: true }
+2019-05-26 21:31:58: { Error: ER_NOT_SUPPORTED_AUTH_MODE: Client does not support authentication protocol requested by server; consider upgrading MySQL client
+2019-05-26 21:31:58:     at Handshake.Sequence._packetToError (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\sequences\Sequence.js:47:14)
+2019-05-26 21:31:58:     at Handshake.ErrorPacket (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\sequences\Handshake.js:123:18)
+2019-05-26 21:31:58:     at Protocol._parsePacket (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\Protocol.js:291:23)
+2019-05-26 21:31:58:     at Parser._parsePacket (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\Parser.js:433:10)
+2019-05-26 21:31:58:     at Parser.write (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\Parser.js:43:10)
+2019-05-26 21:31:58:     at Protocol.write (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\Protocol.js:38:16)
+2019-05-26 21:31:58:     at Socket.<anonymous> (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\Connection.js:91:28)
+2019-05-26 21:31:58:     at Socket.<anonymous> (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\Connection.js:525:10)
+2019-05-26 21:31:58:     at Socket.emit (events.js:189:13)
+2019-05-26 21:31:58:     at addChunk (_stream_readable.js:284:12)
+2019-05-26 21:31:58:     --------------------
+2019-05-26 21:31:58:     at Protocol._enqueue (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\Protocol.js:144:48)
+2019-05-26 21:31:58:     at Protocol.handshake (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\Protocol.js:51:23)
+2019-05-26 21:31:58:     at Connection.connect (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\Connection.js:119:18)
+2019-05-26 21:31:58:     at Object.<anonymous> (C:\Users\Howlet\Desktop\blog\src\db\mysql.js:9:5)
+2019-05-26 21:31:58:     at Module._compile (internal/modules/cjs/loader.js:689:30)
+2019-05-26 21:31:58:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:700:10)
+2019-05-26 21:31:58:     at Module.load (internal/modules/cjs/loader.js:599:32)
+2019-05-26 21:31:58:     at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+2019-05-26 21:31:58:     at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+2019-05-26 21:31:58:     at Module.require (internal/modules/cjs/loader.js:637:17)
+2019-05-26 21:31:58:   code: 'ER_NOT_SUPPORTED_AUTH_MODE',
+2019-05-26 21:31:58:   errno: 1251,
+2019-05-26 21:31:58:   sqlMessage:
+2019-05-26 21:31:58:    'Client does not support authentication protocol requested by server; consider upgrading MySQL client',
+2019-05-26 21:31:58:   sqlState: '08004',
+2019-05-26 21:31:58:   fatal: true }
+2019-05-26 21:31:59: { Error: ER_NOT_SUPPORTED_AUTH_MODE: Client does not support authentication protocol requested by server; consider upgrading MySQL client
+2019-05-26 21:31:59:     at Handshake.Sequence._packetToError (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\sequences\Sequence.js:47:14)
+2019-05-26 21:31:59:     at Handshake.ErrorPacket (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\sequences\Handshake.js:123:18)
+2019-05-26 21:31:59:     at Protocol._parsePacket (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\Protocol.js:291:23)
+2019-05-26 21:31:59:     at Parser._parsePacket (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\Parser.js:433:10)
+2019-05-26 21:31:59:     at Parser.write (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\Parser.js:43:10)
+2019-05-26 21:31:59:     at Protocol.write (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\Protocol.js:38:16)
+2019-05-26 21:31:59:     at Socket.<anonymous> (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\Connection.js:91:28)
+2019-05-26 21:31:59:     at Socket.<anonymous> (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\Connection.js:525:10)
+2019-05-26 21:31:59:     at Socket.emit (events.js:189:13)
+2019-05-26 21:31:59:     at addChunk (_stream_readable.js:284:12)
+2019-05-26 21:31:59:     --------------------
+2019-05-26 21:31:59:     at Protocol._enqueue (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\Protocol.js:144:48)
+2019-05-26 21:31:59:     at Protocol.handshake (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\Protocol.js:51:23)
+2019-05-26 21:31:59:     at Connection.connect (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\Connection.js:119:18)
+2019-05-26 21:31:59:     at Object.<anonymous> (C:\Users\Howlet\Desktop\blog\src\db\mysql.js:9:5)
+2019-05-26 21:31:59:     at Module._compile (internal/modules/cjs/loader.js:689:30)
+2019-05-26 21:31:59:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:700:10)
+2019-05-26 21:31:59:     at Module.load (internal/modules/cjs/loader.js:599:32)
+2019-05-26 21:31:59:     at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+2019-05-26 21:31:59:     at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+2019-05-26 21:31:59:     at Module.require (internal/modules/cjs/loader.js:637:17)
+2019-05-26 21:31:59:   code: 'ER_NOT_SUPPORTED_AUTH_MODE',
+2019-05-26 21:31:59:   errno: 1251,
+2019-05-26 21:31:59:   sqlMessage:
+2019-05-26 21:31:59:    'Client does not support authentication protocol requested by server; consider upgrading MySQL client',
+2019-05-26 21:31:59:   sqlState: '08004',
+2019-05-26 21:31:59:   fatal: true }
+2019-05-26 21:31:59: { Error: ER_NOT_SUPPORTED_AUTH_MODE: Client does not support authentication protocol requested by server; consider upgrading MySQL client
+2019-05-26 21:31:59:     at Handshake.Sequence._packetToError (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\sequences\Sequence.js:47:14)
+2019-05-26 21:31:59:     at Handshake.ErrorPacket (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\sequences\Handshake.js:123:18)
+2019-05-26 21:31:59:     at Protocol._parsePacket (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\Protocol.js:291:23)
+2019-05-26 21:31:59:     at Parser._parsePacket (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\Parser.js:433:10)
+2019-05-26 21:31:59:     at Parser.write (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\Parser.js:43:10)
+2019-05-26 21:31:59:     at Protocol.write (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\Protocol.js:38:16)
+2019-05-26 21:31:59:     at Socket.<anonymous> (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\Connection.js:91:28)
+2019-05-26 21:31:59:     at Socket.<anonymous> (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\Connection.js:525:10)
+2019-05-26 21:31:59:     at Socket.emit (events.js:189:13)
+2019-05-26 21:31:59:     at addChunk (_stream_readable.js:284:12)
+2019-05-26 21:31:59:     --------------------
+2019-05-26 21:31:59:     at Protocol._enqueue (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\Protocol.js:144:48)
+2019-05-26 21:31:59:     at Protocol.handshake (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\Protocol.js:51:23)
+2019-05-26 21:31:59:     at Connection.connect (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\Connection.js:119:18)
+2019-05-26 21:31:59:     at Object.<anonymous> (C:\Users\Howlet\Desktop\blog\src\db\mysql.js:9:5)
+2019-05-26 21:31:59:     at Module._compile (internal/modules/cjs/loader.js:689:30)
+2019-05-26 21:31:59:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:700:10)
+2019-05-26 21:31:59:     at Module.load (internal/modules/cjs/loader.js:599:32)
+2019-05-26 21:31:59:     at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+2019-05-26 21:31:59:     at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+2019-05-26 21:31:59:     at Module.require (internal/modules/cjs/loader.js:637:17)
+2019-05-26 21:31:59:   code: 'ER_NOT_SUPPORTED_AUTH_MODE',
+2019-05-26 21:31:59:   errno: 1251,
+2019-05-26 21:31:59:   sqlMessage:
+2019-05-26 21:31:59:    'Client does not support authentication protocol requested by server; consider upgrading MySQL client',
+2019-05-26 21:31:59:   sqlState: '08004',
+2019-05-26 21:31:59:   fatal: true }
+2019-05-26 21:32:00: { Error: ER_NOT_SUPPORTED_AUTH_MODE: Client does not support authentication protocol requested by server; consider upgrading MySQL client
+2019-05-26 21:32:00:     at Handshake.Sequence._packetToError (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\sequences\Sequence.js:47:14)
+2019-05-26 21:32:00:     at Handshake.ErrorPacket (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\sequences\Handshake.js:123:18)
+2019-05-26 21:32:00:     at Protocol._parsePacket (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\Protocol.js:291:23)
+2019-05-26 21:32:00:     at Parser._parsePacket (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\Parser.js:433:10)
+2019-05-26 21:32:00:     at Parser.write (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\Parser.js:43:10)
+2019-05-26 21:32:00:     at Protocol.write (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\Protocol.js:38:16)
+2019-05-26 21:32:00:     at Socket.<anonymous> (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\Connection.js:91:28)
+2019-05-26 21:32:00:     at Socket.<anonymous> (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\Connection.js:525:10)
+2019-05-26 21:32:00:     at Socket.emit (events.js:189:13)
+2019-05-26 21:32:00:     at addChunk (_stream_readable.js:284:12)
+2019-05-26 21:32:00:     --------------------
+2019-05-26 21:32:00:     at Protocol._enqueue (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\Protocol.js:144:48)
+2019-05-26 21:32:00:     at Protocol.handshake (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\Protocol.js:51:23)
+2019-05-26 21:32:00:     at Connection.connect (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\Connection.js:119:18)
+2019-05-26 21:32:00:     at Object.<anonymous> (C:\Users\Howlet\Desktop\blog\src\db\mysql.js:9:5)
+2019-05-26 21:32:00:     at Module._compile (internal/modules/cjs/loader.js:689:30)
+2019-05-26 21:32:00:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:700:10)
+2019-05-26 21:32:00:     at Module.load (internal/modules/cjs/loader.js:599:32)
+2019-05-26 21:32:00:     at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+2019-05-26 21:32:00:     at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+2019-05-26 21:32:00:     at Module.require (internal/modules/cjs/loader.js:637:17)
+2019-05-26 21:32:00:   code: 'ER_NOT_SUPPORTED_AUTH_MODE',
+2019-05-26 21:32:00:   errno: 1251,
+2019-05-26 21:32:00:   sqlMessage:
+2019-05-26 21:32:00:    'Client does not support authentication protocol requested by server; consider upgrading MySQL client',
+2019-05-26 21:32:00:   sqlState: '08004',
+2019-05-26 21:32:00:   fatal: true }
+2019-05-26 21:32:00: { Error: ER_NOT_SUPPORTED_AUTH_MODE: Client does not support authentication protocol requested by server; consider upgrading MySQL client
+2019-05-26 21:32:00:     at Handshake.Sequence._packetToError (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\sequences\Sequence.js:47:14)
+2019-05-26 21:32:00:     at Handshake.ErrorPacket (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\sequences\Handshake.js:123:18)
+2019-05-26 21:32:00:     at Protocol._parsePacket (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\Protocol.js:291:23)
+2019-05-26 21:32:00:     at Parser._parsePacket (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\Parser.js:433:10)
+2019-05-26 21:32:00:     at Parser.write (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\Parser.js:43:10)
+2019-05-26 21:32:00:     at Protocol.write (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\Protocol.js:38:16)
+2019-05-26 21:32:00:     at Socket.<anonymous> (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\Connection.js:91:28)
+2019-05-26 21:32:00:     at Socket.<anonymous> (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\Connection.js:525:10)
+2019-05-26 21:32:00:     at Socket.emit (events.js:189:13)
+2019-05-26 21:32:00:     at addChunk (_stream_readable.js:284:12)
+2019-05-26 21:32:00:     --------------------
+2019-05-26 21:32:00:     at Protocol._enqueue (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\Protocol.js:144:48)
+2019-05-26 21:32:00:     at Protocol.handshake (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\Protocol.js:51:23)
+2019-05-26 21:32:00:     at Connection.connect (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\Connection.js:119:18)
+2019-05-26 21:32:00:     at Object.<anonymous> (C:\Users\Howlet\Desktop\blog\src\db\mysql.js:9:5)
+2019-05-26 21:32:00:     at Module._compile (internal/modules/cjs/loader.js:689:30)
+2019-05-26 21:32:00:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:700:10)
+2019-05-26 21:32:00:     at Module.load (internal/modules/cjs/loader.js:599:32)
+2019-05-26 21:32:00:     at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+2019-05-26 21:32:00:     at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+2019-05-26 21:32:00:     at Module.require (internal/modules/cjs/loader.js:637:17)
+2019-05-26 21:32:00:   code: 'ER_NOT_SUPPORTED_AUTH_MODE',
+2019-05-26 21:32:00:   errno: 1251,
+2019-05-26 21:32:00:   sqlMessage:
+2019-05-26 21:32:00:    'Client does not support authentication protocol requested by server; consider upgrading MySQL client',
+2019-05-26 21:32:00:   sqlState: '08004',
+2019-05-26 21:32:00:   fatal: true }
+2019-05-26 21:32:00: { Error: ER_NOT_SUPPORTED_AUTH_MODE: Client does not support authentication protocol requested by server; consider upgrading MySQL client
+2019-05-26 21:32:00:     at Handshake.Sequence._packetToError (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\sequences\Sequence.js:47:14)
+2019-05-26 21:32:00:     at Handshake.ErrorPacket (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\sequences\Handshake.js:123:18)
+2019-05-26 21:32:00:     at Protocol._parsePacket (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\Protocol.js:291:23)
+2019-05-26 21:32:00:     at Parser._parsePacket (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\Parser.js:433:10)
+2019-05-26 21:32:00:     at Parser.write (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\Parser.js:43:10)
+2019-05-26 21:32:00:     at Protocol.write (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\Protocol.js:38:16)
+2019-05-26 21:32:00:     at Socket.<anonymous> (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\Connection.js:91:28)
+2019-05-26 21:32:00:     at Socket.<anonymous> (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\Connection.js:525:10)
+2019-05-26 21:32:00:     at Socket.emit (events.js:189:13)
+2019-05-26 21:32:00:     at addChunk (_stream_readable.js:284:12)
+2019-05-26 21:32:00:     --------------------
+2019-05-26 21:32:00:     at Protocol._enqueue (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\Protocol.js:144:48)
+2019-05-26 21:32:00:     at Protocol.handshake (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\Protocol.js:51:23)
+2019-05-26 21:32:00:     at Connection.connect (C:\Users\Howlet\Desktop\blog\node_modules\_mysql@2.17.1@mysql\lib\Connection.js:119:18)
+2019-05-26 21:32:00:     at Object.<anonymous> (C:\Users\Howlet\Desktop\blog\src\db\mysql.js:9:5)
+2019-05-26 21:32:00:     at Module._compile (internal/modules/cjs/loader.js:689:30)
+2019-05-26 21:32:00:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:700:10)
+2019-05-26 21:32:00:     at Module.load (internal/modules/cjs/loader.js:599:32)
+2019-05-26 21:32:00:     at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+2019-05-26 21:32:00:     at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+2019-05-26 21:32:00:     at Module.require (internal/modules/cjs/loader.js:637:17)
+2019-05-26 21:32:00:   code: 'ER_NOT_SUPPORTED_AUTH_MODE',
+2019-05-26 21:32:00:   errno: 1251,
+2019-05-26 21:32:00:   sqlMessage:
+2019-05-26 21:32:00:    'Client does not support authentication protocol requested by server; consider upgrading MySQL client',
+2019-05-26 21:32:00:   sqlState: '08004',
+2019-05-26 21:32:00:   fatal: true }

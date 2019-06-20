@@ -1,0 +1,649 @@
+2019-05-26 19:11:53: { Error: getaddrinfo ENOTFOUND http://129.28.161.167 http://129.28.161.167:3306
+2019-05-26 19:11:53:     at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:57:26)
+2019-05-26 19:11:53:     --------------------
+2019-05-26 19:11:53:     at Protocol._enqueue (F:\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\Protocol.js:144:48)
+2019-05-26 19:11:53:     at Protocol.handshake (F:\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\Protocol.js:51:23)
+2019-05-26 19:11:53:     at Connection.connect (F:\blog\node_modules\_mysql@2.17.1@mysql\lib\Connection.js:119:18)
+2019-05-26 19:11:53:     at Object.<anonymous> (F:\blog\src\db\mysql.js:9:5)
+2019-05-26 19:11:53:     at Module._compile (internal/modules/cjs/loader.js:689:30)
+2019-05-26 19:11:53:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:700:10)
+2019-05-26 19:11:53:     at Module.load (internal/modules/cjs/loader.js:599:32)
+2019-05-26 19:11:53:     at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+2019-05-26 19:11:53:     at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+2019-05-26 19:11:53:     at Module.require (internal/modules/cjs/loader.js:637:17)
+2019-05-26 19:11:53:   errno: 'ENOTFOUND',
+2019-05-26 19:11:53:   code: 'ENOTFOUND',
+2019-05-26 19:11:53:   syscall: 'getaddrinfo',
+2019-05-26 19:11:53:   hostname: 'http://129.28.161.167',
+2019-05-26 19:11:53:   host: 'http://129.28.161.167',
+2019-05-26 19:11:53:   port: '3306',
+2019-05-26 19:11:53:   fatal: true }
+2019-05-26 19:11:53: { Error: getaddrinfo ENOTFOUND http://129.28.161.167 http://129.28.161.167:3306
+2019-05-26 19:11:53:     at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:57:26)
+2019-05-26 19:11:53:     --------------------
+2019-05-26 19:11:53:     at Protocol._enqueue (F:\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\Protocol.js:144:48)
+2019-05-26 19:11:53:     at Protocol.handshake (F:\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\Protocol.js:51:23)
+2019-05-26 19:11:53:     at Connection.connect (F:\blog\node_modules\_mysql@2.17.1@mysql\lib\Connection.js:119:18)
+2019-05-26 19:11:53:     at Object.<anonymous> (F:\blog\src\db\mysql.js:9:5)
+2019-05-26 19:11:53:     at Module._compile (internal/modules/cjs/loader.js:689:30)
+2019-05-26 19:11:53:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:700:10)
+2019-05-26 19:11:53:     at Module.load (internal/modules/cjs/loader.js:599:32)
+2019-05-26 19:11:53:     at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+2019-05-26 19:11:53:     at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+2019-05-26 19:11:53:     at Module.require (internal/modules/cjs/loader.js:637:17)
+2019-05-26 19:11:53:   errno: 'ENOTFOUND',
+2019-05-26 19:11:53:   code: 'ENOTFOUND',
+2019-05-26 19:11:53:   syscall: 'getaddrinfo',
+2019-05-26 19:11:53:   hostname: 'http://129.28.161.167',
+2019-05-26 19:11:53:   host: 'http://129.28.161.167',
+2019-05-26 19:11:53:   port: '3306',
+2019-05-26 19:11:53:   fatal: true }
+2019-05-26 19:11:54: { Error: getaddrinfo ENOTFOUND http://129.28.161.167 http://129.28.161.167:3306
+2019-05-26 19:11:54:     at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:57:26)
+2019-05-26 19:11:54:     --------------------
+2019-05-26 19:11:54:     at Protocol._enqueue (F:\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\Protocol.js:144:48)
+2019-05-26 19:11:54:     at Protocol.handshake (F:\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\Protocol.js:51:23)
+2019-05-26 19:11:54:     at Connection.connect (F:\blog\node_modules\_mysql@2.17.1@mysql\lib\Connection.js:119:18)
+2019-05-26 19:11:54:     at Object.<anonymous> (F:\blog\src\db\mysql.js:9:5)
+2019-05-26 19:11:54:     at Module._compile (internal/modules/cjs/loader.js:689:30)
+2019-05-26 19:11:54:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:700:10)
+2019-05-26 19:11:54:     at Module.load (internal/modules/cjs/loader.js:599:32)
+2019-05-26 19:11:54:     at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+2019-05-26 19:11:54:     at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+2019-05-26 19:11:54:     at Module.require (internal/modules/cjs/loader.js:637:17)
+2019-05-26 19:11:54:   errno: 'ENOTFOUND',
+2019-05-26 19:11:54:   code: 'ENOTFOUND',
+2019-05-26 19:11:54:   syscall: 'getaddrinfo',
+2019-05-26 19:11:54:   hostname: 'http://129.28.161.167',
+2019-05-26 19:11:54:   host: 'http://129.28.161.167',
+2019-05-26 19:11:54:   port: '3306',
+2019-05-26 19:11:54:   fatal: true }
+2019-05-26 19:11:54: { Error: getaddrinfo ENOTFOUND http://129.28.161.167 http://129.28.161.167:3306
+2019-05-26 19:11:54:     at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:57:26)
+2019-05-26 19:11:54:     --------------------
+2019-05-26 19:11:54:     at Protocol._enqueue (F:\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\Protocol.js:144:48)
+2019-05-26 19:11:54:     at Protocol.handshake (F:\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\Protocol.js:51:23)
+2019-05-26 19:11:54:     at Connection.connect (F:\blog\node_modules\_mysql@2.17.1@mysql\lib\Connection.js:119:18)
+2019-05-26 19:11:54:     at Object.<anonymous> (F:\blog\src\db\mysql.js:9:5)
+2019-05-26 19:11:54:     at Module._compile (internal/modules/cjs/loader.js:689:30)
+2019-05-26 19:11:54:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:700:10)
+2019-05-26 19:11:54:     at Module.load (internal/modules/cjs/loader.js:599:32)
+2019-05-26 19:11:54:     at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+2019-05-26 19:11:54:     at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+2019-05-26 19:11:54:     at Module.require (internal/modules/cjs/loader.js:637:17)
+2019-05-26 19:11:54:   errno: 'ENOTFOUND',
+2019-05-26 19:11:54:   code: 'ENOTFOUND',
+2019-05-26 19:11:54:   syscall: 'getaddrinfo',
+2019-05-26 19:11:54:   hostname: 'http://129.28.161.167',
+2019-05-26 19:11:54:   host: 'http://129.28.161.167',
+2019-05-26 19:11:54:   port: '3306',
+2019-05-26 19:11:54:   fatal: true }
+2019-05-26 19:11:55: { Error: getaddrinfo ENOTFOUND http://129.28.161.167 http://129.28.161.167:3306
+2019-05-26 19:11:55:     at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:57:26)
+2019-05-26 19:11:55:     --------------------
+2019-05-26 19:11:55:     at Protocol._enqueue (F:\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\Protocol.js:144:48)
+2019-05-26 19:11:55:     at Protocol.handshake (F:\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\Protocol.js:51:23)
+2019-05-26 19:11:55:     at Connection.connect (F:\blog\node_modules\_mysql@2.17.1@mysql\lib\Connection.js:119:18)
+2019-05-26 19:11:55:     at Object.<anonymous> (F:\blog\src\db\mysql.js:9:5)
+2019-05-26 19:11:55:     at Module._compile (internal/modules/cjs/loader.js:689:30)
+2019-05-26 19:11:55:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:700:10)
+2019-05-26 19:11:55:     at Module.load (internal/modules/cjs/loader.js:599:32)
+2019-05-26 19:11:55:     at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+2019-05-26 19:11:55:     at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+2019-05-26 19:11:55:     at Module.require (internal/modules/cjs/loader.js:637:17)
+2019-05-26 19:11:55:   errno: 'ENOTFOUND',
+2019-05-26 19:11:55:   code: 'ENOTFOUND',
+2019-05-26 19:11:55:   syscall: 'getaddrinfo',
+2019-05-26 19:11:55:   hostname: 'http://129.28.161.167',
+2019-05-26 19:11:55:   host: 'http://129.28.161.167',
+2019-05-26 19:11:55:   port: '3306',
+2019-05-26 19:11:55:   fatal: true }
+2019-05-26 19:11:55: { Error: getaddrinfo ENOTFOUND http://129.28.161.167 http://129.28.161.167:3306
+2019-05-26 19:11:55:     at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:57:26)
+2019-05-26 19:11:55:     --------------------
+2019-05-26 19:11:55:     at Protocol._enqueue (F:\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\Protocol.js:144:48)
+2019-05-26 19:11:55:     at Protocol.handshake (F:\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\Protocol.js:51:23)
+2019-05-26 19:11:55:     at Connection.connect (F:\blog\node_modules\_mysql@2.17.1@mysql\lib\Connection.js:119:18)
+2019-05-26 19:11:55:     at Object.<anonymous> (F:\blog\src\db\mysql.js:9:5)
+2019-05-26 19:11:55:     at Module._compile (internal/modules/cjs/loader.js:689:30)
+2019-05-26 19:11:55:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:700:10)
+2019-05-26 19:11:55:     at Module.load (internal/modules/cjs/loader.js:599:32)
+2019-05-26 19:11:55:     at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+2019-05-26 19:11:55:     at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+2019-05-26 19:11:55:     at Module.require (internal/modules/cjs/loader.js:637:17)
+2019-05-26 19:11:55:   errno: 'ENOTFOUND',
+2019-05-26 19:11:55:   code: 'ENOTFOUND',
+2019-05-26 19:11:55:   syscall: 'getaddrinfo',
+2019-05-26 19:11:55:   hostname: 'http://129.28.161.167',
+2019-05-26 19:11:55:   host: 'http://129.28.161.167',
+2019-05-26 19:11:55:   port: '3306',
+2019-05-26 19:11:55:   fatal: true }
+2019-05-26 19:11:55: { Error: getaddrinfo ENOTFOUND http://129.28.161.167 http://129.28.161.167:3306
+2019-05-26 19:11:55:     at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:57:26)
+2019-05-26 19:11:55:     --------------------
+2019-05-26 19:11:55:     at Protocol._enqueue (F:\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\Protocol.js:144:48)
+2019-05-26 19:11:55:     at Protocol.handshake (F:\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\Protocol.js:51:23)
+2019-05-26 19:11:55:     at Connection.connect (F:\blog\node_modules\_mysql@2.17.1@mysql\lib\Connection.js:119:18)
+2019-05-26 19:11:55:     at Object.<anonymous> (F:\blog\src\db\mysql.js:9:5)
+2019-05-26 19:11:55:     at Module._compile (internal/modules/cjs/loader.js:689:30)
+2019-05-26 19:11:55:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:700:10)
+2019-05-26 19:11:55:     at Module.load (internal/modules/cjs/loader.js:599:32)
+2019-05-26 19:11:55:     at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+2019-05-26 19:11:55:     at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+2019-05-26 19:11:55:     at Module.require (internal/modules/cjs/loader.js:637:17)
+2019-05-26 19:11:55:   errno: 'ENOTFOUND',
+2019-05-26 19:11:55:   code: 'ENOTFOUND',
+2019-05-26 19:11:55:   syscall: 'getaddrinfo',
+2019-05-26 19:11:55:   hostname: 'http://129.28.161.167',
+2019-05-26 19:11:55:   host: 'http://129.28.161.167',
+2019-05-26 19:11:55:   port: '3306',
+2019-05-26 19:11:55:   fatal: true }
+2019-05-26 19:11:56: { Error: getaddrinfo ENOTFOUND http://129.28.161.167 http://129.28.161.167:3306
+2019-05-26 19:11:56:     at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:57:26)
+2019-05-26 19:11:56:     --------------------
+2019-05-26 19:11:56:     at Protocol._enqueue (F:\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\Protocol.js:144:48)
+2019-05-26 19:11:56:     at Protocol.handshake (F:\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\Protocol.js:51:23)
+2019-05-26 19:11:56:     at Connection.connect (F:\blog\node_modules\_mysql@2.17.1@mysql\lib\Connection.js:119:18)
+2019-05-26 19:11:56:     at Object.<anonymous> (F:\blog\src\db\mysql.js:9:5)
+2019-05-26 19:11:56:     at Module._compile (internal/modules/cjs/loader.js:689:30)
+2019-05-26 19:11:56:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:700:10)
+2019-05-26 19:11:56:     at Module.load (internal/modules/cjs/loader.js:599:32)
+2019-05-26 19:11:56:     at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+2019-05-26 19:11:56:     at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+2019-05-26 19:11:56:     at Module.require (internal/modules/cjs/loader.js:637:17)
+2019-05-26 19:11:56:   errno: 'ENOTFOUND',
+2019-05-26 19:11:56:   code: 'ENOTFOUND',
+2019-05-26 19:11:56:   syscall: 'getaddrinfo',
+2019-05-26 19:11:56:   hostname: 'http://129.28.161.167',
+2019-05-26 19:11:56:   host: 'http://129.28.161.167',
+2019-05-26 19:11:56:   port: '3306',
+2019-05-26 19:11:56:   fatal: true }
+2019-05-26 19:11:56: { Error: getaddrinfo ENOTFOUND http://129.28.161.167 http://129.28.161.167:3306
+2019-05-26 19:11:56:     at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:57:26)
+2019-05-26 19:11:56:     --------------------
+2019-05-26 19:11:56:     at Protocol._enqueue (F:\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\Protocol.js:144:48)
+2019-05-26 19:11:56:     at Protocol.handshake (F:\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\Protocol.js:51:23)
+2019-05-26 19:11:56:     at Connection.connect (F:\blog\node_modules\_mysql@2.17.1@mysql\lib\Connection.js:119:18)
+2019-05-26 19:11:56:     at Object.<anonymous> (F:\blog\src\db\mysql.js:9:5)
+2019-05-26 19:11:56:     at Module._compile (internal/modules/cjs/loader.js:689:30)
+2019-05-26 19:11:56:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:700:10)
+2019-05-26 19:11:56:     at Module.load (internal/modules/cjs/loader.js:599:32)
+2019-05-26 19:11:56:     at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+2019-05-26 19:11:56:     at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+2019-05-26 19:11:56:     at Module.require (internal/modules/cjs/loader.js:637:17)
+2019-05-26 19:11:56:   errno: 'ENOTFOUND',
+2019-05-26 19:11:56:   code: 'ENOTFOUND',
+2019-05-26 19:11:56:   syscall: 'getaddrinfo',
+2019-05-26 19:11:56:   hostname: 'http://129.28.161.167',
+2019-05-26 19:11:56:   host: 'http://129.28.161.167',
+2019-05-26 19:11:56:   port: '3306',
+2019-05-26 19:11:56:   fatal: true }
+2019-05-26 19:11:57: { Error: getaddrinfo ENOTFOUND http://129.28.161.167 http://129.28.161.167:3306
+2019-05-26 19:11:57:     at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:57:26)
+2019-05-26 19:11:57:     --------------------
+2019-05-26 19:11:57:     at Protocol._enqueue (F:\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\Protocol.js:144:48)
+2019-05-26 19:11:57:     at Protocol.handshake (F:\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\Protocol.js:51:23)
+2019-05-26 19:11:57:     at Connection.connect (F:\blog\node_modules\_mysql@2.17.1@mysql\lib\Connection.js:119:18)
+2019-05-26 19:11:57:     at Object.<anonymous> (F:\blog\src\db\mysql.js:9:5)
+2019-05-26 19:11:57:     at Module._compile (internal/modules/cjs/loader.js:689:30)
+2019-05-26 19:11:57:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:700:10)
+2019-05-26 19:11:57:     at Module.load (internal/modules/cjs/loader.js:599:32)
+2019-05-26 19:11:57:     at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+2019-05-26 19:11:57:     at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+2019-05-26 19:11:57:     at Module.require (internal/modules/cjs/loader.js:637:17)
+2019-05-26 19:11:57:   errno: 'ENOTFOUND',
+2019-05-26 19:11:57:   code: 'ENOTFOUND',
+2019-05-26 19:11:57:   syscall: 'getaddrinfo',
+2019-05-26 19:11:57:   hostname: 'http://129.28.161.167',
+2019-05-26 19:11:57:   host: 'http://129.28.161.167',
+2019-05-26 19:11:57:   port: '3306',
+2019-05-26 19:11:57:   fatal: true }
+2019-05-26 19:11:57: { Error: getaddrinfo ENOTFOUND http://129.28.161.167 http://129.28.161.167:3306
+2019-05-26 19:11:57:     at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:57:26)
+2019-05-26 19:11:57:     --------------------
+2019-05-26 19:11:57:     at Protocol._enqueue (F:\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\Protocol.js:144:48)
+2019-05-26 19:11:57:     at Protocol.handshake (F:\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\Protocol.js:51:23)
+2019-05-26 19:11:57:     at Connection.connect (F:\blog\node_modules\_mysql@2.17.1@mysql\lib\Connection.js:119:18)
+2019-05-26 19:11:57:     at Object.<anonymous> (F:\blog\src\db\mysql.js:9:5)
+2019-05-26 19:11:57:     at Module._compile (internal/modules/cjs/loader.js:689:30)
+2019-05-26 19:11:57:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:700:10)
+2019-05-26 19:11:57:     at Module.load (internal/modules/cjs/loader.js:599:32)
+2019-05-26 19:11:57:     at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+2019-05-26 19:11:57:     at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+2019-05-26 19:11:57:     at Module.require (internal/modules/cjs/loader.js:637:17)
+2019-05-26 19:11:57:   errno: 'ENOTFOUND',
+2019-05-26 19:11:57:   code: 'ENOTFOUND',
+2019-05-26 19:11:57:   syscall: 'getaddrinfo',
+2019-05-26 19:11:57:   hostname: 'http://129.28.161.167',
+2019-05-26 19:11:57:   host: 'http://129.28.161.167',
+2019-05-26 19:11:57:   port: '3306',
+2019-05-26 19:11:57:   fatal: true }
+2019-05-26 19:11:58: { Error: getaddrinfo ENOTFOUND http://129.28.161.167 http://129.28.161.167:3306
+2019-05-26 19:11:58:     at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:57:26)
+2019-05-26 19:11:58:     --------------------
+2019-05-26 19:11:58:     at Protocol._enqueue (F:\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\Protocol.js:144:48)
+2019-05-26 19:11:58:     at Protocol.handshake (F:\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\Protocol.js:51:23)
+2019-05-26 19:11:58:     at Connection.connect (F:\blog\node_modules\_mysql@2.17.1@mysql\lib\Connection.js:119:18)
+2019-05-26 19:11:58:     at Object.<anonymous> (F:\blog\src\db\mysql.js:9:5)
+2019-05-26 19:11:58:     at Module._compile (internal/modules/cjs/loader.js:689:30)
+2019-05-26 19:11:58:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:700:10)
+2019-05-26 19:11:58:     at Module.load (internal/modules/cjs/loader.js:599:32)
+2019-05-26 19:11:58:     at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+2019-05-26 19:11:58:     at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+2019-05-26 19:11:58:     at Module.require (internal/modules/cjs/loader.js:637:17)
+2019-05-26 19:11:58:   errno: 'ENOTFOUND',
+2019-05-26 19:11:58:   code: 'ENOTFOUND',
+2019-05-26 19:11:58:   syscall: 'getaddrinfo',
+2019-05-26 19:11:58:   hostname: 'http://129.28.161.167',
+2019-05-26 19:11:58:   host: 'http://129.28.161.167',
+2019-05-26 19:11:58:   port: '3306',
+2019-05-26 19:11:58:   fatal: true }
+2019-05-26 19:11:58: { Error: getaddrinfo ENOTFOUND http://129.28.161.167 http://129.28.161.167:3306
+2019-05-26 19:11:58:     at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:57:26)
+2019-05-26 19:11:58:     --------------------
+2019-05-26 19:11:58:     at Protocol._enqueue (F:\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\Protocol.js:144:48)
+2019-05-26 19:11:58:     at Protocol.handshake (F:\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\Protocol.js:51:23)
+2019-05-26 19:11:58:     at Connection.connect (F:\blog\node_modules\_mysql@2.17.1@mysql\lib\Connection.js:119:18)
+2019-05-26 19:11:58:     at Object.<anonymous> (F:\blog\src\db\mysql.js:9:5)
+2019-05-26 19:11:58:     at Module._compile (internal/modules/cjs/loader.js:689:30)
+2019-05-26 19:11:58:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:700:10)
+2019-05-26 19:11:58:     at Module.load (internal/modules/cjs/loader.js:599:32)
+2019-05-26 19:11:58:     at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+2019-05-26 19:11:58:     at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+2019-05-26 19:11:58:     at Module.require (internal/modules/cjs/loader.js:637:17)
+2019-05-26 19:11:58:   errno: 'ENOTFOUND',
+2019-05-26 19:11:58:   code: 'ENOTFOUND',
+2019-05-26 19:11:58:   syscall: 'getaddrinfo',
+2019-05-26 19:11:58:   hostname: 'http://129.28.161.167',
+2019-05-26 19:11:58:   host: 'http://129.28.161.167',
+2019-05-26 19:11:58:   port: '3306',
+2019-05-26 19:11:58:   fatal: true }
+2019-05-26 19:11:58: { Error: getaddrinfo ENOTFOUND http://129.28.161.167 http://129.28.161.167:3306
+2019-05-26 19:11:58:     at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:57:26)
+2019-05-26 19:11:58:     --------------------
+2019-05-26 19:11:58:     at Protocol._enqueue (F:\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\Protocol.js:144:48)
+2019-05-26 19:11:58:     at Protocol.handshake (F:\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\Protocol.js:51:23)
+2019-05-26 19:11:58:     at Connection.connect (F:\blog\node_modules\_mysql@2.17.1@mysql\lib\Connection.js:119:18)
+2019-05-26 19:11:58:     at Object.<anonymous> (F:\blog\src\db\mysql.js:9:5)
+2019-05-26 19:11:58:     at Module._compile (internal/modules/cjs/loader.js:689:30)
+2019-05-26 19:11:58:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:700:10)
+2019-05-26 19:11:58:     at Module.load (internal/modules/cjs/loader.js:599:32)
+2019-05-26 19:11:58:     at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+2019-05-26 19:11:58:     at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+2019-05-26 19:11:58:     at Module.require (internal/modules/cjs/loader.js:637:17)
+2019-05-26 19:11:58:   errno: 'ENOTFOUND',
+2019-05-26 19:11:58:   code: 'ENOTFOUND',
+2019-05-26 19:11:58:   syscall: 'getaddrinfo',
+2019-05-26 19:11:58:   hostname: 'http://129.28.161.167',
+2019-05-26 19:11:58:   host: 'http://129.28.161.167',
+2019-05-26 19:11:58:   port: '3306',
+2019-05-26 19:11:58:   fatal: true }
+2019-05-26 19:11:59: { Error: getaddrinfo ENOTFOUND http://129.28.161.167 http://129.28.161.167:3306
+2019-05-26 19:11:59:     at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:57:26)
+2019-05-26 19:11:59:     --------------------
+2019-05-26 19:11:59:     at Protocol._enqueue (F:\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\Protocol.js:144:48)
+2019-05-26 19:11:59:     at Protocol.handshake (F:\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\Protocol.js:51:23)
+2019-05-26 19:11:59:     at Connection.connect (F:\blog\node_modules\_mysql@2.17.1@mysql\lib\Connection.js:119:18)
+2019-05-26 19:11:59:     at Object.<anonymous> (F:\blog\src\db\mysql.js:9:5)
+2019-05-26 19:11:59:     at Module._compile (internal/modules/cjs/loader.js:689:30)
+2019-05-26 19:11:59:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:700:10)
+2019-05-26 19:11:59:     at Module.load (internal/modules/cjs/loader.js:599:32)
+2019-05-26 19:11:59:     at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+2019-05-26 19:11:59:     at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+2019-05-26 19:11:59:     at Module.require (internal/modules/cjs/loader.js:637:17)
+2019-05-26 19:11:59:   errno: 'ENOTFOUND',
+2019-05-26 19:11:59:   code: 'ENOTFOUND',
+2019-05-26 19:11:59:   syscall: 'getaddrinfo',
+2019-05-26 19:11:59:   hostname: 'http://129.28.161.167',
+2019-05-26 19:11:59:   host: 'http://129.28.161.167',
+2019-05-26 19:11:59:   port: '3306',
+2019-05-26 19:11:59:   fatal: true }
+2019-05-26 19:11:59: { Error: getaddrinfo ENOTFOUND http://129.28.161.167 http://129.28.161.167:3306
+2019-05-26 19:11:59:     at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:57:26)
+2019-05-26 19:11:59:     --------------------
+2019-05-26 19:11:59:     at Protocol._enqueue (F:\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\Protocol.js:144:48)
+2019-05-26 19:11:59:     at Protocol.handshake (F:\blog\node_modules\_mysql@2.17.1@mysql\lib\protocol\Protocol.js:51:23)
+2019-05-26 19:11:59:     at Connection.connect (F:\blog\node_modules\_mysql@2.17.1@mysql\lib\Connection.js:119:18)
+2019-05-26 19:11:59:     at Object.<anonymous> (F:\blog\src\db\mysql.js:9:5)
+2019-05-26 19:11:59:     at Module._compile (internal/modules/cjs/loader.js:689:30)
+2019-05-26 19:11:59:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:700:10)
+2019-05-26 19:11:59:     at Module.load (internal/modules/cjs/loader.js:599:32)
+2019-05-26 19:11:59:     at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+2019-05-26 19:11:59:     at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+2019-05-26 19:11:59:     at Module.require (internal/modules/cjs/loader.js:637:17)
+2019-05-26 19:11:59:   errno: 'ENOTFOUND',
+2019-05-26 19:11:59:   code: 'ENOTFOUND',
+2019-05-26 19:11:59:   syscall: 'getaddrinfo',
+2019-05-26 19:11:59:   hostname: 'http://129.28.161.167',
+2019-05-26 19:11:59:   host: 'http://129.28.161.167',
+2019-05-26 19:11:59:   port: '3306',
+2019-05-26 19:11:59:   fatal: true }
+2019-05-26 19:30:32: { Error: Redis connection to 129.28.161.167:6379 failed - connect ECONNREFUSED 129.28.161.167:6379
+2019-05-26 19:30:32:     at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)
+2019-05-26 19:30:32:   errno: 'ECONNREFUSED',
+2019-05-26 19:30:32:   code: 'ECONNREFUSED',
+2019-05-26 19:30:32:   syscall: 'connect',
+2019-05-26 19:30:32:   address: '129.28.161.167',
+2019-05-26 19:30:32:   port: 6379 }
+2019-05-26 19:30:33: { Error: Redis connection to 129.28.161.167:6379 failed - connect ECONNREFUSED 129.28.161.167:6379
+2019-05-26 19:30:33:     at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)
+2019-05-26 19:30:33:   errno: 'ECONNREFUSED',
+2019-05-26 19:30:33:   code: 'ECONNREFUSED',
+2019-05-26 19:30:33:   syscall: 'connect',
+2019-05-26 19:30:33:   address: '129.28.161.167',
+2019-05-26 19:30:33:   port: 6379 }
+2019-05-26 19:30:35: { Error: Redis connection to 129.28.161.167:6379 failed - connect ECONNREFUSED 129.28.161.167:6379
+2019-05-26 19:30:35:     at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)
+2019-05-26 19:30:35:   errno: 'ECONNREFUSED',
+2019-05-26 19:30:35:   code: 'ECONNREFUSED',
+2019-05-26 19:30:35:   syscall: 'connect',
+2019-05-26 19:30:35:   address: '129.28.161.167',
+2019-05-26 19:30:35:   port: 6379 }
+2019-05-26 19:30:36: { Error: Redis connection to 129.28.161.167:6379 failed - connect ECONNREFUSED 129.28.161.167:6379
+2019-05-26 19:30:36:     at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)
+2019-05-26 19:30:36:   errno: 'ECONNREFUSED',
+2019-05-26 19:30:36:   code: 'ECONNREFUSED',
+2019-05-26 19:30:36:   syscall: 'connect',
+2019-05-26 19:30:36:   address: '129.28.161.167',
+2019-05-26 19:30:36:   port: 6379 }
+2019-05-26 19:30:38: { Error: Redis connection to 129.28.161.167:6379 failed - connect ECONNREFUSED 129.28.161.167:6379
+2019-05-26 19:30:38:     at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)
+2019-05-26 19:30:38:   errno: 'ECONNREFUSED',
+2019-05-26 19:30:38:   code: 'ECONNREFUSED',
+2019-05-26 19:30:38:   syscall: 'connect',
+2019-05-26 19:30:38:   address: '129.28.161.167',
+2019-05-26 19:30:38:   port: 6379 }
+2019-05-26 19:30:41: { Error: Redis connection to 129.28.161.167:6379 failed - connect ECONNREFUSED 129.28.161.167:6379
+2019-05-26 19:30:41:     at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)
+2019-05-26 19:30:41:   errno: 'ECONNREFUSED',
+2019-05-26 19:30:41:   code: 'ECONNREFUSED',
+2019-05-26 19:30:41:   syscall: 'connect',
+2019-05-26 19:30:41:   address: '129.28.161.167',
+2019-05-26 19:30:41:   port: 6379 }
+2019-05-26 19:30:45: { Error: Redis connection to 129.28.161.167:6379 failed - connect ECONNREFUSED 129.28.161.167:6379
+2019-05-26 19:30:45:     at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)
+2019-05-26 19:30:45:   errno: 'ECONNREFUSED',
+2019-05-26 19:30:45:   code: 'ECONNREFUSED',
+2019-05-26 19:30:45:   syscall: 'connect',
+2019-05-26 19:30:45:   address: '129.28.161.167',
+2019-05-26 19:30:45:   port: 6379 }
+2019-05-26 19:31:04: { Error: Redis connection to 129.28.161.167:6379 failed - connect ECONNREFUSED 129.28.161.167:6379
+2019-05-26 19:31:04:     at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)
+2019-05-26 19:31:04:   errno: 'ECONNREFUSED',
+2019-05-26 19:31:04:   code: 'ECONNREFUSED',
+2019-05-26 19:31:04:   syscall: 'connect',
+2019-05-26 19:31:04:   address: '129.28.161.167',
+2019-05-26 19:31:04:   port: 6379 }
+2019-05-26 19:31:06: { Error: Redis connection to 129.28.161.167:6379 failed - connect ECONNREFUSED 129.28.161.167:6379
+2019-05-26 19:31:06:     at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)
+2019-05-26 19:31:06:   errno: 'ECONNREFUSED',
+2019-05-26 19:31:06:   code: 'ECONNREFUSED',
+2019-05-26 19:31:06:   syscall: 'connect',
+2019-05-26 19:31:06:   address: '129.28.161.167',
+2019-05-26 19:31:06:   port: 6379 }
+2019-05-26 19:31:07: { Error: Redis connection to 129.28.161.167:6379 failed - connect ECONNREFUSED 129.28.161.167:6379
+2019-05-26 19:31:07:     at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)
+2019-05-26 19:31:07:   errno: 'ECONNREFUSED',
+2019-05-26 19:31:07:   code: 'ECONNREFUSED',
+2019-05-26 19:31:07:   syscall: 'connect',
+2019-05-26 19:31:07:   address: '129.28.161.167',
+2019-05-26 19:31:07:   port: 6379 }
+2019-05-26 19:31:09: { Error: Redis connection to 129.28.161.167:6379 failed - connect ECONNREFUSED 129.28.161.167:6379
+2019-05-26 19:31:09:     at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)
+2019-05-26 19:31:09:   errno: 'ECONNREFUSED',
+2019-05-26 19:31:09:   code: 'ECONNREFUSED',
+2019-05-26 19:31:09:   syscall: 'connect',
+2019-05-26 19:31:09:   address: '129.28.161.167',
+2019-05-26 19:31:09:   port: 6379 }
+2019-05-26 19:31:11: { Error: Redis connection to 129.28.161.167:6379 failed - connect ECONNREFUSED 129.28.161.167:6379
+2019-05-26 19:31:11:     at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)
+2019-05-26 19:31:11:   errno: 'ECONNREFUSED',
+2019-05-26 19:31:11:   code: 'ECONNREFUSED',
+2019-05-26 19:31:11:   syscall: 'connect',
+2019-05-26 19:31:11:   address: '129.28.161.167',
+2019-05-26 19:31:11:   port: 6379 }
+2019-05-26 19:31:13: { Error: Redis connection to 129.28.161.167:6379 failed - connect ECONNREFUSED 129.28.161.167:6379
+2019-05-26 19:31:13:     at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)
+2019-05-26 19:31:13:   errno: 'ECONNREFUSED',
+2019-05-26 19:31:13:   code: 'ECONNREFUSED',
+2019-05-26 19:31:13:   syscall: 'connect',
+2019-05-26 19:31:13:   address: '129.28.161.167',
+2019-05-26 19:31:13:   port: 6379 }
+2019-05-26 19:31:17: { Error: Redis connection to 129.28.161.167:6379 failed - connect ECONNREFUSED 129.28.161.167:6379
+2019-05-26 19:31:17:     at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)
+2019-05-26 19:31:17:   errno: 'ECONNREFUSED',
+2019-05-26 19:31:17:   code: 'ECONNREFUSED',
+2019-05-26 19:31:17:   syscall: 'connect',
+2019-05-26 19:31:17:   address: '129.28.161.167',
+2019-05-26 19:31:17:   port: 6379 }
+2019-05-26 19:31:23: { Error: Redis connection to 129.28.161.167:6379 failed - connect ECONNREFUSED 129.28.161.167:6379
+2019-05-26 19:31:23:     at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)
+2019-05-26 19:31:23:   errno: 'ECONNREFUSED',
+2019-05-26 19:31:23:   code: 'ECONNREFUSED',
+2019-05-26 19:31:23:   syscall: 'connect',
+2019-05-26 19:31:23:   address: '129.28.161.167',
+2019-05-26 19:31:23:   port: 6379 }
+2019-05-26 19:31:32: { Error: Redis connection to 129.28.161.167:6379 failed - connect ECONNREFUSED 129.28.161.167:6379
+2019-05-26 19:31:32:     at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)
+2019-05-26 19:31:32:   errno: 'ECONNREFUSED',
+2019-05-26 19:31:32:   code: 'ECONNREFUSED',
+2019-05-26 19:31:32:   syscall: 'connect',
+2019-05-26 19:31:32:   address: '129.28.161.167',
+2019-05-26 19:31:32:   port: 6379 }
+2019-05-26 19:31:47: { Error: Redis connection to 129.28.161.167:6379 failed - connect ECONNREFUSED 129.28.161.167:6379
+2019-05-26 19:31:47:     at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)
+2019-05-26 19:31:47:   errno: 'ECONNREFUSED',
+2019-05-26 19:31:47:   code: 'ECONNREFUSED',
+2019-05-26 19:31:47:   syscall: 'connect',
+2019-05-26 19:31:47:   address: '129.28.161.167',
+2019-05-26 19:31:47:   port: 6379 }
+2019-05-26 19:32:12: { Error: Redis connection to 129.28.161.167:6379 failed - connect ECONNREFUSED 129.28.161.167:6379
+2019-05-26 19:32:12:     at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)
+2019-05-26 19:32:12:   errno: 'ECONNREFUSED',
+2019-05-26 19:32:12:   code: 'ECONNREFUSED',
+2019-05-26 19:32:12:   syscall: 'connect',
+2019-05-26 19:32:12:   address: '129.28.161.167',
+2019-05-26 19:32:12:   port: 6379 }
+2019-05-26 19:32:54: { Error: Redis connection to 129.28.161.167:6379 failed - connect ECONNREFUSED 129.28.161.167:6379
+2019-05-26 19:32:54:     at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)
+2019-05-26 19:32:54:   errno: 'ECONNREFUSED',
+2019-05-26 19:32:54:   code: 'ECONNREFUSED',
+2019-05-26 19:32:54:   syscall: 'connect',
+2019-05-26 19:32:54:   address: '129.28.161.167',
+2019-05-26 19:32:54:   port: 6379 }
+2019-05-26 19:34:03: { Error: Redis connection to 129.28.161.167:6379 failed - connect ECONNREFUSED 129.28.161.167:6379
+2019-05-26 19:34:03:     at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)
+2019-05-26 19:34:03:   errno: 'ECONNREFUSED',
+2019-05-26 19:34:03:   code: 'ECONNREFUSED',
+2019-05-26 19:34:03:   syscall: 'connect',
+2019-05-26 19:34:03:   address: '129.28.161.167',
+2019-05-26 19:34:03:   port: 6379 }
+2019-05-26 19:35:00: { Error: Redis connection to 129.28.161.167:6379 failed - connect ECONNREFUSED 129.28.161.167:6379
+2019-05-26 19:35:00:     at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)
+2019-05-26 19:35:00:   errno: 'ECONNREFUSED',
+2019-05-26 19:35:00:   code: 'ECONNREFUSED',
+2019-05-26 19:35:00:   syscall: 'connect',
+2019-05-26 19:35:00:   address: '129.28.161.167',
+2019-05-26 19:35:00:   port: 6379 }
+2019-05-26 19:35:02: { Error: Redis connection to 129.28.161.167:6379 failed - connect ECONNREFUSED 129.28.161.167:6379
+2019-05-26 19:35:02:     at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)
+2019-05-26 19:35:02:   errno: 'ECONNREFUSED',
+2019-05-26 19:35:02:   code: 'ECONNREFUSED',
+2019-05-26 19:35:02:   syscall: 'connect',
+2019-05-26 19:35:02:   address: '129.28.161.167',
+2019-05-26 19:35:02:   port: 6379 }
+2019-05-26 19:35:03: { Error: Redis connection to 129.28.161.167:6379 failed - connect ECONNREFUSED 129.28.161.167:6379
+2019-05-26 19:35:03:     at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)
+2019-05-26 19:35:03:   errno: 'ECONNREFUSED',
+2019-05-26 19:35:03:   code: 'ECONNREFUSED',
+2019-05-26 19:35:03:   syscall: 'connect',
+2019-05-26 19:35:03:   address: '129.28.161.167',
+2019-05-26 19:35:03:   port: 6379 }
+2019-05-26 19:35:05: { Error: Redis connection to 129.28.161.167:6379 failed - connect ECONNREFUSED 129.28.161.167:6379
+2019-05-26 19:35:05:     at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)
+2019-05-26 19:35:05:   errno: 'ECONNREFUSED',
+2019-05-26 19:35:05:   code: 'ECONNREFUSED',
+2019-05-26 19:35:05:   syscall: 'connect',
+2019-05-26 19:35:05:   address: '129.28.161.167',
+2019-05-26 19:35:05:   port: 6379 }
+2019-05-26 19:35:07: { Error: Redis connection to 129.28.161.167:6379 failed - connect ECONNREFUSED 129.28.161.167:6379
+2019-05-26 19:35:07:     at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)
+2019-05-26 19:35:07:   errno: 'ECONNREFUSED',
+2019-05-26 19:35:07:   code: 'ECONNREFUSED',
+2019-05-26 19:35:07:   syscall: 'connect',
+2019-05-26 19:35:07:   address: '129.28.161.167',
+2019-05-26 19:35:07:   port: 6379 }
+2019-05-26 19:35:09: { Error: Redis connection to 129.28.161.167:6379 failed - connect ECONNREFUSED 129.28.161.167:6379
+2019-05-26 19:35:09:     at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)
+2019-05-26 19:35:09:   errno: 'ECONNREFUSED',
+2019-05-26 19:35:09:   code: 'ECONNREFUSED',
+2019-05-26 19:35:09:   syscall: 'connect',
+2019-05-26 19:35:09:   address: '129.28.161.167',
+2019-05-26 19:35:09:   port: 6379 }
+2019-05-26 19:35:13: { Error: Redis connection to 129.28.161.167:6379 failed - connect ECONNREFUSED 129.28.161.167:6379
+2019-05-26 19:35:13:     at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)
+2019-05-26 19:35:13:   errno: 'ECONNREFUSED',
+2019-05-26 19:35:13:   code: 'ECONNREFUSED',
+2019-05-26 19:35:13:   syscall: 'connect',
+2019-05-26 19:35:13:   address: '129.28.161.167',
+2019-05-26 19:35:13:   port: 6379 }
+2019-05-26 19:35:19: { Error: Redis connection to 129.28.161.167:6379 failed - connect ECONNREFUSED 129.28.161.167:6379
+2019-05-26 19:35:19:     at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)
+2019-05-26 19:35:19:   errno: 'ECONNREFUSED',
+2019-05-26 19:35:19:   code: 'ECONNREFUSED',
+2019-05-26 19:35:19:   syscall: 'connect',
+2019-05-26 19:35:19:   address: '129.28.161.167',
+2019-05-26 19:35:19:   port: 6379 }
+2019-05-26 19:35:28: { Error: Redis connection to 129.28.161.167:6379 failed - connect ECONNREFUSED 129.28.161.167:6379
+2019-05-26 19:35:28:     at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)
+2019-05-26 19:35:28:   errno: 'ECONNREFUSED',
+2019-05-26 19:35:28:   code: 'ECONNREFUSED',
+2019-05-26 19:35:28:   syscall: 'connect',
+2019-05-26 19:35:28:   address: '129.28.161.167',
+2019-05-26 19:35:28:   port: 6379 }
+2019-05-26 19:35:43: { Error: Redis connection to 129.28.161.167:6379 failed - connect ECONNREFUSED 129.28.161.167:6379
+2019-05-26 19:35:43:     at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)
+2019-05-26 19:35:43:   errno: 'ECONNREFUSED',
+2019-05-26 19:35:43:   code: 'ECONNREFUSED',
+2019-05-26 19:35:43:   syscall: 'connect',
+2019-05-26 19:35:43:   address: '129.28.161.167',
+2019-05-26 19:35:43:   port: 6379 }
+2019-05-26 19:36:08: { Error: Redis connection to 129.28.161.167:6379 failed - connect ECONNREFUSED 129.28.161.167:6379
+2019-05-26 19:36:08:     at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)
+2019-05-26 19:36:08:   errno: 'ECONNREFUSED',
+2019-05-26 19:36:08:   code: 'ECONNREFUSED',
+2019-05-26 19:36:08:   syscall: 'connect',
+2019-05-26 19:36:08:   address: '129.28.161.167',
+2019-05-26 19:36:08:   port: 6379 }
+2019-05-26 19:36:50: { Error: Redis connection to 129.28.161.167:6379 failed - connect ECONNREFUSED 129.28.161.167:6379
+2019-05-26 19:36:50:     at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)
+2019-05-26 19:36:50:   errno: 'ECONNREFUSED',
+2019-05-26 19:36:50:   code: 'ECONNREFUSED',
+2019-05-26 19:36:50:   syscall: 'connect',
+2019-05-26 19:36:50:   address: '129.28.161.167',
+2019-05-26 19:36:50:   port: 6379 }
+2019-05-26 19:37:59: { Error: Redis connection to 129.28.161.167:6379 failed - connect ECONNREFUSED 129.28.161.167:6379
+2019-05-26 19:37:59:     at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)
+2019-05-26 19:37:59:   errno: 'ECONNREFUSED',
+2019-05-26 19:37:59:   code: 'ECONNREFUSED',
+2019-05-26 19:37:59:   syscall: 'connect',
+2019-05-26 19:37:59:   address: '129.28.161.167',
+2019-05-26 19:37:59:   port: 6379 }
+2019-05-26 19:39:57: { Error: Redis connection to 129.28.161.167:6379 failed - connect ECONNREFUSED 129.28.161.167:6379
+2019-05-26 19:39:57:     at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)
+2019-05-26 19:39:57:   errno: 'ECONNREFUSED',
+2019-05-26 19:39:57:   code: 'ECONNREFUSED',
+2019-05-26 19:39:57:   syscall: 'connect',
+2019-05-26 19:39:57:   address: '129.28.161.167',
+2019-05-26 19:39:57:   port: 6379 }
+2019-05-26 19:41:56: { Error: Redis connection to 129.28.161.167:6379 failed - connect ECONNREFUSED 129.28.161.167:6379
+2019-05-26 19:41:56:     at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)
+2019-05-26 19:41:56:   errno: 'ECONNREFUSED',
+2019-05-26 19:41:56:   code: 'ECONNREFUSED',
+2019-05-26 19:41:56:   syscall: 'connect',
+2019-05-26 19:41:56:   address: '129.28.161.167',
+2019-05-26 19:41:56:   port: 6379 }
+2019-05-26 19:41:57: { Error: Redis connection to 129.28.161.167:6379 failed - connect ECONNREFUSED 129.28.161.167:6379
+2019-05-26 19:41:57:     at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)
+2019-05-26 19:41:57:   errno: 'ECONNREFUSED',
+2019-05-26 19:41:57:   code: 'ECONNREFUSED',
+2019-05-26 19:41:57:   syscall: 'connect',
+2019-05-26 19:41:57:   address: '129.28.161.167',
+2019-05-26 19:41:57:   port: 6379 }
+2019-05-26 19:41:58: { Error: Redis connection to 129.28.161.167:6379 failed - connect ECONNREFUSED 129.28.161.167:6379
+2019-05-26 19:41:58:     at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)
+2019-05-26 19:41:58:   errno: 'ECONNREFUSED',
+2019-05-26 19:41:58:   code: 'ECONNREFUSED',
+2019-05-26 19:41:58:   syscall: 'connect',
+2019-05-26 19:41:58:   address: '129.28.161.167',
+2019-05-26 19:41:58:   port: 6379 }
+2019-05-26 19:42:00: { Error: Redis connection to 129.28.161.167:6379 failed - connect ECONNREFUSED 129.28.161.167:6379
+2019-05-26 19:42:00:     at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)
+2019-05-26 19:42:00:   errno: 'ECONNREFUSED',
+2019-05-26 19:42:00:   code: 'ECONNREFUSED',
+2019-05-26 19:42:00:   syscall: 'connect',
+2019-05-26 19:42:00:   address: '129.28.161.167',
+2019-05-26 19:42:00:   port: 6379 }
+2019-05-26 19:42:02: { Error: Redis connection to 129.28.161.167:6379 failed - connect ECONNREFUSED 129.28.161.167:6379
+2019-05-26 19:42:02:     at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)
+2019-05-26 19:42:02:   errno: 'ECONNREFUSED',
+2019-05-26 19:42:02:   code: 'ECONNREFUSED',
+2019-05-26 19:42:02:   syscall: 'connect',
+2019-05-26 19:42:02:   address: '129.28.161.167',
+2019-05-26 19:42:02:   port: 6379 }
+2019-05-26 19:42:05: { Error: Redis connection to 129.28.161.167:6379 failed - connect ECONNREFUSED 129.28.161.167:6379
+2019-05-26 19:42:05:     at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)
+2019-05-26 19:42:05:   errno: 'ECONNREFUSED',
+2019-05-26 19:42:05:   code: 'ECONNREFUSED',
+2019-05-26 19:42:05:   syscall: 'connect',
+2019-05-26 19:42:05:   address: '129.28.161.167',
+2019-05-26 19:42:05:   port: 6379 }
+2019-05-26 19:42:09: { Error: Redis connection to 129.28.161.167:6379 failed - connect ECONNREFUSED 129.28.161.167:6379
+2019-05-26 19:42:09:     at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)
+2019-05-26 19:42:09:   errno: 'ECONNREFUSED',
+2019-05-26 19:42:09:   code: 'ECONNREFUSED',
+2019-05-26 19:42:09:   syscall: 'connect',
+2019-05-26 19:42:09:   address: '129.28.161.167',
+2019-05-26 19:42:09:   port: 6379 }
+2019-05-26 19:42:14: { Error: Redis connection to 129.28.161.167:6379 failed - connect ECONNREFUSED 129.28.161.167:6379
+2019-05-26 19:42:14:     at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)
+2019-05-26 19:42:14:   errno: 'ECONNREFUSED',
+2019-05-26 19:42:14:   code: 'ECONNREFUSED',
+2019-05-26 19:42:14:   syscall: 'connect',
+2019-05-26 19:42:14:   address: '129.28.161.167',
+2019-05-26 19:42:14:   port: 6379 }
+2019-05-26 19:42:24: { Error: Redis connection to 129.28.161.167:6379 failed - connect ECONNREFUSED 129.28.161.167:6379
+2019-05-26 19:42:24:     at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)
+2019-05-26 19:42:24:   errno: 'ECONNREFUSED',
+2019-05-26 19:42:24:   code: 'ECONNREFUSED',
+2019-05-26 19:42:24:   syscall: 'connect',
+2019-05-26 19:42:24:   address: '129.28.161.167',
+2019-05-26 19:42:24:   port: 6379 }
+2019-05-26 19:42:39: { Error: Redis connection to 129.28.161.167:6379 failed - connect ECONNREFUSED 129.28.161.167:6379
+2019-05-26 19:42:39:     at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)
+2019-05-26 19:42:39:   errno: 'ECONNREFUSED',
+2019-05-26 19:42:39:   code: 'ECONNREFUSED',
+2019-05-26 19:42:39:   syscall: 'connect',
+2019-05-26 19:42:39:   address: '129.28.161.167',
+2019-05-26 19:42:39:   port: 6379 }
+2019-05-26 19:43:03: { Error: Redis connection to 129.28.161.167:6379 failed - connect ECONNREFUSED 129.28.161.167:6379
+2019-05-26 19:43:03:     at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)
+2019-05-26 19:43:03:   errno: 'ECONNREFUSED',
+2019-05-26 19:43:03:   code: 'ECONNREFUSED',
+2019-05-26 19:43:03:   syscall: 'connect',
+2019-05-26 19:43:03:   address: '129.28.161.167',
+2019-05-26 19:43:03:   port: 6379 }
+2019-05-26 19:43:45: { Error: Redis connection to 129.28.161.167:6379 failed - connect ECONNREFUSED 129.28.161.167:6379
+2019-05-26 19:43:45:     at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)
+2019-05-26 19:43:45:   errno: 'ECONNREFUSED',
+2019-05-26 19:43:45:   code: 'ECONNREFUSED',
+2019-05-26 19:43:45:   syscall: 'connect',
+2019-05-26 19:43:45:   address: '129.28.161.167',
+2019-05-26 19:43:45:   port: 6379 }
+2019-05-26 19:44:54: { Error: Redis connection to 129.28.161.167:6379 failed - connect ECONNREFUSED 129.28.161.167:6379
+2019-05-26 19:44:54:     at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)
+2019-05-26 19:44:54:   errno: 'ECONNREFUSED',
+2019-05-26 19:44:54:   code: 'ECONNREFUSED',
+2019-05-26 19:44:54:   syscall: 'connect',
+2019-05-26 19:44:54:   address: '129.28.161.167',
+2019-05-26 19:44:54:   port: 6379 }
